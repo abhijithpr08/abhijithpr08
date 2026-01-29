@@ -4,7 +4,8 @@
 <p align="center">
 📍 Aluva, Kerala, India <br>
 📞 +91 6282369345 <br>
-📧 abhith628@gmail.com
+📧 abhith628@gmail.com <br>
+🌐 Portfolio: <a href="https://mern-stack-developer-portfolio-abhi.vercel.app">mern-stack-developer-portfolio-abhi.vercel.app</a>
 </p>
 
 ---
@@ -64,23 +65,15 @@ Passionate **MERN Stack Developer** with hands-on experience building full stack
 
 ---
 
-# 📊 GitHub Stats: ![](https://github-readme-stats.vercel.app/api?username=abhijithpr08&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=abhijithpr08&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijithpr08&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats
 
----
-
-## 🚀 Projects
-
-### 🛒 E-Commerce Web App (MERN)
-- JWT Authentication & Role-based Access  
-- Product, Cart & Order Management  
-- Redux Toolkit + TypeScript  
-- REST API Integration  
-
-### 🎓 College Management System
-- Academic & Admin Management  
-- Secure Login System  
-- MERN Stack Architecture  
-- Responsive UI  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhijithpr08&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=abhijithpr08&theme=dark&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijithpr08&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
 
 ---
 
