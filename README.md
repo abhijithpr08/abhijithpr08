@@ -67,11 +67,9 @@ Passionate **MERN Stack Developer** with hands-on experience building full stack
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhijithpr08&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <br/>
+  
   <img src="https://nirzak-streak-stats.vercel.app/?user=abhijithpr08&theme=dark&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijithpr08&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  
 </p>
 
 ---
