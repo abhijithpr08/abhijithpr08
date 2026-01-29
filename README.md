@@ -12,7 +12,9 @@
 
 ## 🧠 Summary
 
-Passionate **MERN Stack Developer** with hands-on experience building full stack web applications. Skilled in creating responsive, scalable apps using **React, Next.js, Node.js, Express & MongoDB**. Strong in REST APIs, JWT authentication, CRUD operations, and clean architecture. A collaborative team player who loves solving real-world problems through code.
+MERN Stack Developer with hands-on experience in frontend and backend development. Skilled in building responsive web applications using React.js, Next.js, Node.js, Express.js, and MongoDB. Experienced
+in RESTful API development, JWT-based authentication, CRUD operations, and writing clean, scalable code. A collaborative team player with strong problem-solving skills and a passion for modern web
+technologies.
 
 ---
 
