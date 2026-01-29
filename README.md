@@ -60,20 +60,15 @@ Passionate **MERN Stack Developer** with hands-on experience building full stack
 <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="120"/>
 <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="120"/>
 <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="120"/>
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="120"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhijithpr08&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=abhijithpr08&theme=dark&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijithpr08&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
+<div align="center">
+  # 📊 GitHub Stats: ![](https://github-readme-stats.vercel.app/api?username=abhijithpr08&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=abhijithpr08&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijithpr08&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
 ---
 
