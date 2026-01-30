@@ -3,7 +3,6 @@
 
 <p align="center">
 📍 Aluva, Kerala, India <br>
-📞 +91 6282369345 <br>
 📧 abhith628@gmail.com <br>
 🌐 Portfolio: <a href="https://mern-stack-developer-portfolio-abhi.vercel.app">mern-stack-developer-portfolio-abhi.vercel.app</a>
 </p>
